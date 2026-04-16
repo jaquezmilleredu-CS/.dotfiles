@@ -1,6 +1,6 @@
-# My Dotfiles
-These are my dotfile configuration files for different software in Bash.
+#My Dotfile
+These are my dotfiles configuration files for different software in Bash.
 ## .nanorc
-This is my custom .nanorc configuration for Nano.
+This is my custom .nanorc configuration for Nano
 ## .bashrc
-This is my custom .bashrc configuration for Bash.
+This is my custom .bashrc configuration for Bash
